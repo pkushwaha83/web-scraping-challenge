@@ -1,0 +1,25 @@
+/* Weather page styles: Giving the body the specified background color, adding font sizes for the \
+  h1 and h3 elements we'll be using */
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  /*background: #efeee7;*/
+  background: red;
+}
+
+h2
+{
+  text-align: left;
+  margin: 0;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
